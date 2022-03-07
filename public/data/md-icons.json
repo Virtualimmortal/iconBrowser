@@ -1,0 +1,5231 @@
+{
+   "3d_rotation": {
+     "name": "3d_rotation",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">3d_rotation</i>"
+   },
+   "accessibility": {
+     "name": "accessibility",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">accessibility</i>"
+   },
+   "account_balance": {
+     "name": "account_balance",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">account_balance</i>"
+   },
+   "account_balance_wallet": {
+     "name": "account_balance_wallet",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">account_balance_wallet</i>"
+   },
+   "account_box": {
+     "name": "account_box",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">account_box</i>"
+   },
+   "account_child": {
+     "name": "account_child",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">account_child</i>"
+   },
+   "account_circle": {
+     "name": "account_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">account_circle</i>"
+   },
+   "add_shopping_cart": {
+     "name": "add_shopping_cart",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add_shopping_cart</i>"
+   },
+   "alarm": {
+     "name": "alarm",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">alarm</i>"
+   },
+   "alarm_add": {
+     "name": "alarm_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">alarm_add</i>"
+   },
+   "alarm_off": {
+     "name": "alarm_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">alarm_off</i>"
+   },
+   "alarm_on": {
+     "name": "alarm_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">alarm_on</i>"
+   },
+   "android": {
+     "name": "android",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">android</i>"
+   },
+   "announcement": {
+     "name": "announcement",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">announcement</i>"
+   },
+   "aspect_ratio": {
+     "name": "aspect_ratio",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">aspect_ratio</i>"
+   },
+   "assessment": {
+     "name": "assessment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assessment</i>"
+   },
+   "assignment": {
+     "name": "assignment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assignment</i>"
+   },
+   "assignment_ind": {
+     "name": "assignment_ind",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assignment_ind</i>"
+   },
+   "assignment_late": {
+     "name": "assignment_late",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assignment_late</i>"
+   },
+   "assignment_return": {
+     "name": "assignment_return",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assignment_return</i>"
+   },
+   "assignment_returned": {
+     "name": "assignment_returned",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assignment_returned</i>"
+   },
+   "assignment_turned_in": {
+     "name": "assignment_turned_in",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assignment_turned_in</i>"
+   },
+   "autorenew": {
+     "name": "autorenew",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">autorenew</i>"
+   },
+   "backup": {
+     "name": "backup",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">backup</i>"
+   },
+   "book": {
+     "name": "book",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">book</i>"
+   },
+   "bookmark": {
+     "name": "bookmark",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bookmark</i>"
+   },
+   "bookmark_outline": {
+     "name": "bookmark_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bookmark_outline</i>"
+   },
+   "bug_report": {
+     "name": "bug_report",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bug_report</i>"
+   },
+   "cached": {
+     "name": "cached",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cached</i>"
+   },
+   "check_circle": {
+     "name": "check_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">check_circle</i>"
+   },
+   "class": {
+     "name": "class",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">class</i>"
+   },
+   "credit_card": {
+     "name": "credit_card",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">credit_card</i>"
+   },
+   "dashboard": {
+     "name": "dashboard",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dashboard</i>"
+   },
+   "delete": {
+     "name": "delete",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">delete</i>"
+   },
+   "description": {
+     "name": "description",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">description</i>"
+   },
+   "dns": {
+     "name": "dns",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dns</i>"
+   },
+   "done": {
+     "name": "done",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">done</i>"
+   },
+   "done_all": {
+     "name": "done_all",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">done_all</i>"
+   },
+   "event": {
+     "name": "event",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">event</i>"
+   },
+   "exit_to_app": {
+     "name": "exit_to_app",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exit_to_app</i>"
+   },
+   "explore": {
+     "name": "explore",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">explore</i>"
+   },
+   "extension": {
+     "name": "extension",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">extension</i>"
+   },
+   "face": {
+     "name": "face",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">face</i>"
+   },
+   "favorite": {
+     "name": "favorite",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">favorite</i>"
+   },
+   "favorite_outline": {
+     "name": "favorite_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">favorite_outline</i>"
+   },
+   "find_in_page": {
+     "name": "find_in_page",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">find_in_page</i>"
+   },
+   "find_replace": {
+     "name": "find_replace",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">find_replace</i>"
+   },
+   "flip_to_back": {
+     "name": "flip_to_back",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flip_to_back</i>"
+   },
+   "flip_to_front": {
+     "name": "flip_to_front",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flip_to_front</i>"
+   },
+   "get_app": {
+     "name": "get_app",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">get_app</i>"
+   },
+   "grade": {
+     "name": "grade",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">grade</i>"
+   },
+   "group_work": {
+     "name": "group_work",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">group_work</i>"
+   },
+   "help": {
+     "name": "help",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">help</i>"
+   },
+   "highlight_remove": {
+     "name": "highlight_remove",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">highlight_remove</i>"
+   },
+   "history": {
+     "name": "history",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">history</i>"
+   },
+   "home": {
+     "name": "home",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">home</i>"
+   },
+   "https": {
+     "name": "https",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">https</i>"
+   },
+   "info": {
+     "name": "info",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">info</i>"
+   },
+   "info_outline": {
+     "name": "info_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">info_outline</i>"
+   },
+   "input": {
+     "name": "input",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">input</i>"
+   },
+   "invert_colors": {
+     "name": "invert_colors",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">invert_colors</i>"
+   },
+   "label": {
+     "name": "label",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">label</i>"
+   },
+   "label_outline": {
+     "name": "label_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">label_outline</i>"
+   },
+   "language": {
+     "name": "language",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">language</i>"
+   },
+   "launch": {
+     "name": "launch",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">launch</i>"
+   },
+   "list": {
+     "name": "list",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">list</i>"
+   },
+   "lock": {
+     "name": "lock",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">lock</i>"
+   },
+   "lock_open": {
+     "name": "lock_open",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">lock_open</i>"
+   },
+   "lock_outline": {
+     "name": "lock_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">lock_outline</i>"
+   },
+   "loyalty": {
+     "name": "loyalty",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">loyalty</i>"
+   },
+   "markunread_mailbox": {
+     "name": "markunread_mailbox",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">markunread_mailbox</i>"
+   },
+   "note_add": {
+     "name": "note_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">note_add</i>"
+   },
+   "open_in_browser": {
+     "name": "open_in_browser",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">open_in_browser</i>"
+   },
+   "open_in_new": {
+     "name": "open_in_new",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">open_in_new</i>"
+   },
+   "open_with": {
+     "name": "open_with",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">open_with</i>"
+   },
+   "pageview": {
+     "name": "pageview",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">pageview</i>"
+   },
+   "payment": {
+     "name": "payment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">payment</i>"
+   },
+   "perm_camera_mic": {
+     "name": "perm_camera_mic",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_camera_mic</i>"
+   },
+   "perm_contact_cal": {
+     "name": "perm_contact_cal",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_contact_cal</i>"
+   },
+   "perm_data_setting": {
+     "name": "perm_data_setting",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_data_setting</i>"
+   },
+   "perm_device_info": {
+     "name": "perm_device_info",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_device_info</i>"
+   },
+   "perm_identity": {
+     "name": "perm_identity",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_identity</i>"
+   },
+   "perm_media": {
+     "name": "perm_media",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_media</i>"
+   },
+   "perm_phone_msg": {
+     "name": "perm_phone_msg",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_phone_msg</i>"
+   },
+   "perm_scan_wifi": {
+     "name": "perm_scan_wifi",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">perm_scan_wifi</i>"
+   },
+   "picture_in_picture": {
+     "name": "picture_in_picture",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">picture_in_picture</i>"
+   },
+   "polymer": {
+     "name": "polymer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">polymer</i>"
+   },
+   "print": {
+     "name": "print",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">print</i>"
+   },
+   "query_builder": {
+     "name": "query_builder",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">query_builder</i>"
+   },
+   "question_answer": {
+     "name": "question_answer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">question_answer</i>"
+   },
+   "receipt": {
+     "name": "receipt",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">receipt</i>"
+   },
+   "redeem": {
+     "name": "redeem",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">redeem</i>"
+   },
+   "reorder": {
+     "name": "reorder",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">reorder</i>"
+   },
+   "report_problem": {
+     "name": "report_problem",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">report_problem</i>"
+   },
+   "restore": {
+     "name": "restore",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">restore</i>"
+   },
+   "room": {
+     "name": "room",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">room</i>"
+   },
+   "schedule": {
+     "name": "schedule",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">schedule</i>"
+   },
+   "search": {
+     "name": "search",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">search</i>"
+   },
+   "settings": {
+     "name": "settings",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings</i>"
+   },
+   "settings_applications": {
+     "name": "settings_applications",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_applications</i>"
+   },
+   "settings_backup_restore": {
+     "name": "settings_backup_restore",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_backup_restore</i>"
+   },
+   "settings_bluetooth": {
+     "name": "settings_bluetooth",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_bluetooth</i>"
+   },
+   "settings_cell": {
+     "name": "settings_cell",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_cell</i>"
+   },
+   "settings_display": {
+     "name": "settings_display",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_display</i>"
+   },
+   "settings_ethernet": {
+     "name": "settings_ethernet",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_ethernet</i>"
+   },
+   "settings_input_antenna": {
+     "name": "settings_input_antenna",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_input_antenna</i>"
+   },
+   "settings_input_component": {
+     "name": "settings_input_component",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_input_component</i>"
+   },
+   "settings_input_composite": {
+     "name": "settings_input_composite",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_input_composite</i>"
+   },
+   "settings_input_hdmi": {
+     "name": "settings_input_hdmi",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_input_hdmi</i>"
+   },
+   "settings_input_svideo": {
+     "name": "settings_input_svideo",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_input_svideo</i>"
+   },
+   "settings_overscan": {
+     "name": "settings_overscan",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_overscan</i>"
+   },
+   "settings_phone": {
+     "name": "settings_phone",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_phone</i>"
+   },
+   "settings_power": {
+     "name": "settings_power",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_power</i>"
+   },
+   "settings_remote": {
+     "name": "settings_remote",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_remote</i>"
+   },
+   "settings_voice": {
+     "name": "settings_voice",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_voice</i>"
+   },
+   "shop": {
+     "name": "shop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">shop</i>"
+   },
+   "shop_two": {
+     "name": "shop_two",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">shop_two</i>"
+   },
+   "shopping_basket": {
+     "name": "shopping_basket",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">shopping_basket</i>"
+   },
+   "shopping_cart": {
+     "name": "shopping_cart",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">shopping_cart</i>"
+   },
+   "speaker_notes": {
+     "name": "speaker_notes",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">speaker_notes</i>"
+   },
+   "spellcheck": {
+     "name": "spellcheck",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">spellcheck</i>"
+   },
+   "star_rate": {
+     "name": "star_rate",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">star_rate</i>"
+   },
+   "stars": {
+     "name": "stars",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">stars</i>"
+   },
+   "store": {
+     "name": "store",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">store</i>"
+   },
+   "subject": {
+     "name": "subject",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">subject</i>"
+   },
+   "supervisor_account": {
+     "name": "supervisor_account",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">supervisor_account</i>"
+   },
+   "swap_horiz": {
+     "name": "swap_horiz",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">swap_horiz</i>"
+   },
+   "swap_vert": {
+     "name": "swap_vert",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">swap_vert</i>"
+   },
+   "swap_vert_circle": {
+     "name": "swap_vert_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">swap_vert_circle</i>"
+   },
+   "system_update_tv": {
+     "name": "system_update_tv",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">system_update_tv</i>"
+   },
+   "tab": {
+     "name": "tab",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tab</i>"
+   },
+   "tab_unselected": {
+     "name": "tab_unselected",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tab_unselected</i>"
+   },
+   "theaters": {
+     "name": "theaters",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">theaters</i>"
+   },
+   "thumb_down": {
+     "name": "thumb_down",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">thumb_down</i>"
+   },
+   "thumb_up": {
+     "name": "thumb_up",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">thumb_up</i>"
+   },
+   "thumbs_up_down": {
+     "name": "thumbs_up_down",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">thumbs_up_down</i>"
+   },
+   "toc": {
+     "name": "toc",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">toc</i>"
+   },
+   "today": {
+     "name": "today",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">today</i>"
+   },
+   "track_changes": {
+     "name": "track_changes",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">track_changes</i>"
+   },
+   "translate": {
+     "name": "translate",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">translate</i>"
+   },
+   "trending_down": {
+     "name": "trending_down",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">trending_down</i>"
+   },
+   "trending_neutral": {
+     "name": "trending_neutral",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">trending_neutral</i>"
+   },
+   "trending_up": {
+     "name": "trending_up",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">trending_up</i>"
+   },
+   "turned_in": {
+     "name": "turned_in",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">turned_in</i>"
+   },
+   "turned_in_not": {
+     "name": "turned_in_not",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">turned_in_not</i>"
+   },
+   "verified_user": {
+     "name": "verified_user",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">verified_user</i>"
+   },
+   "view_agenda": {
+     "name": "view_agenda",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_agenda</i>"
+   },
+   "view_array": {
+     "name": "view_array",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_array</i>"
+   },
+   "view_carousel": {
+     "name": "view_carousel",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_carousel</i>"
+   },
+   "view_column": {
+     "name": "view_column",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_column</i>"
+   },
+   "view_day": {
+     "name": "view_day",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_day</i>"
+   },
+   "view_headline": {
+     "name": "view_headline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_headline</i>"
+   },
+   "view_list": {
+     "name": "view_list",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_list</i>"
+   },
+   "view_module": {
+     "name": "view_module",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_module</i>"
+   },
+   "view_quilt": {
+     "name": "view_quilt",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_quilt</i>"
+   },
+   "view_stream": {
+     "name": "view_stream",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_stream</i>"
+   },
+   "view_week": {
+     "name": "view_week",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">view_week</i>"
+   },
+   "visibility": {
+     "name": "visibility",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">visibility</i>"
+   },
+   "visibility_off": {
+     "name": "visibility_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">visibility_off</i>"
+   },
+   "wallet_giftcard": {
+     "name": "wallet_giftcard",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wallet_giftcard</i>"
+   },
+   "wallet_membership": {
+     "name": "wallet_membership",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wallet_membership</i>"
+   },
+   "wallet_travel": {
+     "name": "wallet_travel",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wallet_travel</i>"
+   },
+   "work": {
+     "name": "work",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">work</i>"
+   },
+   "error": {
+     "name": "error",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">error</i>"
+   },
+   "warning": {
+     "name": "warning",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">warning</i>"
+   },
+   "album": {
+     "name": "album",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">album</i>"
+   },
+   "av_timer": {
+     "name": "av_timer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">av_timer</i>"
+   },
+   "closed_caption": {
+     "name": "closed_caption",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">closed_caption</i>"
+   },
+   "equalizer": {
+     "name": "equalizer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">equalizer</i>"
+   },
+   "explicit": {
+     "name": "explicit",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">explicit</i>"
+   },
+   "fast_forward": {
+     "name": "fast_forward",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">fast_forward</i>"
+   },
+   "fast_rewind": {
+     "name": "fast_rewind",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">fast_rewind</i>"
+   },
+   "games": {
+     "name": "games",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">games</i>"
+   },
+   "hearing": {
+     "name": "hearing",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">hearing</i>"
+   },
+   "high_quality": {
+     "name": "high_quality",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">high_quality</i>"
+   },
+   "loop": {
+     "name": "loop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">loop</i>"
+   },
+   "mic": {
+     "name": "mic",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mic</i>"
+   },
+   "mic_none": {
+     "name": "mic_none",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mic_none</i>"
+   },
+   "mic_off": {
+     "name": "mic_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mic_off</i>"
+   },
+   "movie": {
+     "name": "movie",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">movie</i>"
+   },
+   "my_library_add": {
+     "name": "my_library_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">my_library_add</i>"
+   },
+   "my_library_books": {
+     "name": "my_library_books",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">my_library_books</i>"
+   },
+   "my_library_music": {
+     "name": "my_library_music",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">my_library_music</i>"
+   },
+   "new_releases": {
+     "name": "new_releases",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">new_releases</i>"
+   },
+   "not_interested": {
+     "name": "not_interested",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">not_interested</i>"
+   },
+   "pause": {
+     "name": "pause",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">pause</i>"
+   },
+   "pause_circle_fill": {
+     "name": "pause_circle_fill",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">pause_circle_fill</i>"
+   },
+   "pause_circle_outline": {
+     "name": "pause_circle_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">pause_circle_outline</i>"
+   },
+   "play_arrow": {
+     "name": "play_arrow",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">play_arrow</i>"
+   },
+   "play_circle_fill": {
+     "name": "play_circle_fill",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">play_circle_fill</i>"
+   },
+   "play_circle_outline": {
+     "name": "play_circle_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">play_circle_outline</i>"
+   },
+   "play_shopping_bag": {
+     "name": "play_shopping_bag",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">play_shopping_bag</i>"
+   },
+   "playlist_add": {
+     "name": "playlist_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">playlist_add</i>"
+   },
+   "queue": {
+     "name": "queue",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">queue</i>"
+   },
+   "queue_music": {
+     "name": "queue_music",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">queue_music</i>"
+   },
+   "radio": {
+     "name": "radio",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">radio</i>"
+   },
+   "recent_actors": {
+     "name": "recent_actors",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">recent_actors</i>"
+   },
+   "repeat": {
+     "name": "repeat",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">repeat</i>"
+   },
+   "repeat_one": {
+     "name": "repeat_one",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">repeat_one</i>"
+   },
+   "replay": {
+     "name": "replay",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">replay</i>"
+   },
+   "shuffle": {
+     "name": "shuffle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">shuffle</i>"
+   },
+   "skip_next": {
+     "name": "skip_next",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">skip_next</i>"
+   },
+   "skip_previous": {
+     "name": "skip_previous",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">skip_previous</i>"
+   },
+   "snooze": {
+     "name": "snooze",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">snooze</i>"
+   },
+   "stop": {
+     "name": "stop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">stop</i>"
+   },
+   "subtitles": {
+     "name": "subtitles",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">subtitles</i>"
+   },
+   "surround_sound": {
+     "name": "surround_sound",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">surround_sound</i>"
+   },
+   "video_collection": {
+     "name": "video_collection",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">video_collection</i>"
+   },
+   "videocam": {
+     "name": "videocam",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">videocam</i>"
+   },
+   "videocam_off": {
+     "name": "videocam_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">videocam_off</i>"
+   },
+   "volume_down": {
+     "name": "volume_down",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">volume_down</i>"
+   },
+   "volume_mute": {
+     "name": "volume_mute",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">volume_mute</i>"
+   },
+   "volume_off": {
+     "name": "volume_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">volume_off</i>"
+   },
+   "volume_up": {
+     "name": "volume_up",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">volume_up</i>"
+   },
+   "web": {
+     "name": "web",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">web</i>"
+   },
+   "business": {
+     "name": "business",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">business</i>"
+   },
+   "call": {
+     "name": "call",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call</i>"
+   },
+   "call_end": {
+     "name": "call_end",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call_end</i>"
+   },
+   "call_made": {
+     "name": "call_made",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call_made</i>"
+   },
+   "call_merge": {
+     "name": "call_merge",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call_merge</i>"
+   },
+   "call_missed": {
+     "name": "call_missed",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call_missed</i>"
+   },
+   "call_received": {
+     "name": "call_received",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call_received</i>"
+   },
+   "call_split": {
+     "name": "call_split",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">call_split</i>"
+   },
+   "chat": {
+     "name": "chat",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">chat</i>"
+   },
+   "clear_all": {
+     "name": "clear_all",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">clear_all</i>"
+   },
+   "comment": {
+     "name": "comment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">comment</i>"
+   },
+   "contacts": {
+     "name": "contacts",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">contacts</i>"
+   },
+   "dialer_sip": {
+     "name": "dialer_sip",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dialer_sip</i>"
+   },
+   "dialpad": {
+     "name": "dialpad",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dialpad</i>"
+   },
+   "dnd_on": {
+     "name": "dnd_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dnd_on</i>"
+   },
+   "email": {
+     "name": "email",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">email</i>"
+   },
+   "forum": {
+     "name": "forum",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">forum</i>"
+   },
+   "import_export": {
+     "name": "import_export",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">import_export</i>"
+   },
+   "invert_colors_off": {
+     "name": "invert_colors_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">invert_colors_off</i>"
+   },
+   "invert_colors_on": {
+     "name": "invert_colors_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">invert_colors_on</i>"
+   },
+   "live_help": {
+     "name": "live_help",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">live_help</i>"
+   },
+   "location_off": {
+     "name": "location_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">location_off</i>"
+   },
+   "location_on": {
+     "name": "location_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">location_on</i>"
+   },
+   "message": {
+     "name": "message",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">message</i>"
+   },
+   "messenger": {
+     "name": "messenger",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">messenger</i>"
+   },
+   "no_sim": {
+     "name": "no_sim",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">no_sim</i>"
+   },
+   "phone": {
+     "name": "phone",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone</i>"
+   },
+   "portable_wifi_off": {
+     "name": "portable_wifi_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">portable_wifi_off</i>"
+   },
+   "quick_contacts_dialer": {
+     "name": "quick_contacts_dialer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">quick_contacts_dialer</i>"
+   },
+   "quick_contacts_mail": {
+     "name": "quick_contacts_mail",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">quick_contacts_mail</i>"
+   },
+   "ring_volume": {
+     "name": "ring_volume",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">ring_volume</i>"
+   },
+   "stay_current_landscape": {
+     "name": "stay_current_landscape",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">stay_current_landscape</i>"
+   },
+   "stay_current_portrait": {
+     "name": "stay_current_portrait",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">stay_current_portrait</i>"
+   },
+   "stay_primary_landscape": {
+     "name": "stay_primary_landscape",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">stay_primary_landscape</i>"
+   },
+   "stay_primary_portrait": {
+     "name": "stay_primary_portrait",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">stay_primary_portrait</i>"
+   },
+   "swap_calls": {
+     "name": "swap_calls",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">swap_calls</i>"
+   },
+   "textsms": {
+     "name": "textsms",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">textsms</i>"
+   },
+   "voicemail": {
+     "name": "voicemail",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">voicemail</i>"
+   },
+   "vpn_key": {
+     "name": "vpn_key",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">vpn_key</i>"
+   },
+   "add": {
+     "name": "add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add</i>"
+   },
+   "add_box": {
+     "name": "add_box",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add_box</i>"
+   },
+   "add_circle": {
+     "name": "add_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add_circle</i>"
+   },
+   "add_circle_outline": {
+     "name": "add_circle_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add_circle_outline</i>"
+   },
+   "archive": {
+     "name": "archive",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">archive</i>"
+   },
+   "backspace": {
+     "name": "backspace",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">backspace</i>"
+   },
+   "block": {
+     "name": "block",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">block</i>"
+   },
+   "clear": {
+     "name": "clear",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">clear</i>"
+   },
+   "content_copy": {
+     "name": "content_copy",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">content_copy</i>"
+   },
+   "content_cut": {
+     "name": "content_cut",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">content_cut</i>"
+   },
+   "content_paste": {
+     "name": "content_paste",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">content_paste</i>"
+   },
+   "create": {
+     "name": "create",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">create</i>"
+   },
+   "drafts": {
+     "name": "drafts",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">drafts</i>"
+   },
+   "filter_list": {
+     "name": "filter_list",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_list</i>"
+   },
+   "flag": {
+     "name": "flag",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flag</i>"
+   },
+   "forward": {
+     "name": "forward",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">forward</i>"
+   },
+   "gesture": {
+     "name": "gesture",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">gesture</i>"
+   },
+   "inbox": {
+     "name": "inbox",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">inbox</i>"
+   },
+   "link": {
+     "name": "link",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">link</i>"
+   },
+   "mail": {
+     "name": "mail",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mail</i>"
+   },
+   "markunread": {
+     "name": "markunread",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">markunread</i>"
+   },
+   "redo": {
+     "name": "redo",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">redo</i>"
+   },
+   "remove": {
+     "name": "remove",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">remove</i>"
+   },
+   "remove_circle": {
+     "name": "remove_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">remove_circle</i>"
+   },
+   "remove_circle_outline": {
+     "name": "remove_circle_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">remove_circle_outline</i>"
+   },
+   "reply": {
+     "name": "reply",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">reply</i>"
+   },
+   "reply_all": {
+     "name": "reply_all",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">reply_all</i>"
+   },
+   "report": {
+     "name": "report",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">report</i>"
+   },
+   "save": {
+     "name": "save",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">save</i>"
+   },
+   "select_all": {
+     "name": "select_all",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">select_all</i>"
+   },
+   "send": {
+     "name": "send",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">send</i>"
+   },
+   "sort": {
+     "name": "sort",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sort</i>"
+   },
+   "text_format": {
+     "name": "text_format",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">text_format</i>"
+   },
+   "undo": {
+     "name": "undo",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">undo</i>"
+   },
+   "access_alarm": {
+     "name": "access_alarm",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">access_alarm</i>"
+   },
+   "access_alarms": {
+     "name": "access_alarms",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">access_alarms</i>"
+   },
+   "access_time": {
+     "name": "access_time",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">access_time</i>"
+   },
+   "add_alarm": {
+     "name": "add_alarm",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add_alarm</i>"
+   },
+   "airplanemode_off": {
+     "name": "airplanemode_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">airplanemode_off</i>"
+   },
+   "airplanemode_on": {
+     "name": "airplanemode_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">airplanemode_on</i>"
+   },
+   "battery_20": {
+     "name": "battery_20",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_20</i>"
+   },
+   "battery_30": {
+     "name": "battery_30",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_30</i>"
+   },
+   "battery_50": {
+     "name": "battery_50",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_50</i>"
+   },
+   "battery_60": {
+     "name": "battery_60",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_60</i>"
+   },
+   "battery_80": {
+     "name": "battery_80",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_80</i>"
+   },
+   "battery_90": {
+     "name": "battery_90",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_90</i>"
+   },
+   "battery_alert": {
+     "name": "battery_alert",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_alert</i>"
+   },
+   "battery_charging_20": {
+     "name": "battery_charging_20",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_20</i>"
+   },
+   "battery_charging_30": {
+     "name": "battery_charging_30",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_30</i>"
+   },
+   "battery_charging_50": {
+     "name": "battery_charging_50",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_50</i>"
+   },
+   "battery_charging_60": {
+     "name": "battery_charging_60",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_60</i>"
+   },
+   "battery_charging_80": {
+     "name": "battery_charging_80",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_80</i>"
+   },
+   "battery_charging_90": {
+     "name": "battery_charging_90",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_90</i>"
+   },
+   "battery_charging_full": {
+     "name": "battery_charging_full",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_charging_full</i>"
+   },
+   "battery_full": {
+     "name": "battery_full",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_full</i>"
+   },
+   "battery_std": {
+     "name": "battery_std",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_std</i>"
+   },
+   "battery_unknown": {
+     "name": "battery_unknown",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">battery_unknown</i>"
+   },
+   "bluetooth": {
+     "name": "bluetooth",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bluetooth</i>"
+   },
+   "bluetooth_connected": {
+     "name": "bluetooth_connected",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bluetooth_connected</i>"
+   },
+   "bluetooth_disabled": {
+     "name": "bluetooth_disabled",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bluetooth_disabled</i>"
+   },
+   "bluetooth_searching": {
+     "name": "bluetooth_searching",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bluetooth_searching</i>"
+   },
+   "brightness_auto": {
+     "name": "brightness_auto",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_auto</i>"
+   },
+   "brightness_high": {
+     "name": "brightness_high",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_high</i>"
+   },
+   "brightness_low": {
+     "name": "brightness_low",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_low</i>"
+   },
+   "brightness_medium": {
+     "name": "brightness_medium",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_medium</i>"
+   },
+   "data_usage": {
+     "name": "data_usage",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">data_usage</i>"
+   },
+   "developer_mode": {
+     "name": "developer_mode",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">developer_mode</i>"
+   },
+   "devices": {
+     "name": "devices",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">devices</i>"
+   },
+   "dvr": {
+     "name": "dvr",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dvr</i>"
+   },
+   "gps_fixed": {
+     "name": "gps_fixed",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">gps_fixed</i>"
+   },
+   "gps_not_fixed": {
+     "name": "gps_not_fixed",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">gps_not_fixed</i>"
+   },
+   "gps_off": {
+     "name": "gps_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">gps_off</i>"
+   },
+   "location_disabled": {
+     "name": "location_disabled",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">location_disabled</i>"
+   },
+   "location_searching": {
+     "name": "location_searching",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">location_searching</i>"
+   },
+   "multitrack_audio": {
+     "name": "multitrack_audio",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">multitrack_audio</i>"
+   },
+   "network_cell": {
+     "name": "network_cell",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">network_cell</i>"
+   },
+   "network_wifi": {
+     "name": "network_wifi",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">network_wifi</i>"
+   },
+   "nfc": {
+     "name": "nfc",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">nfc</i>"
+   },
+   "now_wallpaper": {
+     "name": "now_wallpaper",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">now_wallpaper</i>"
+   },
+   "now_widgets": {
+     "name": "now_widgets",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">now_widgets</i>"
+   },
+   "screen_lock_landscape": {
+     "name": "screen_lock_landscape",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">screen_lock_landscape</i>"
+   },
+   "screen_lock_portrait": {
+     "name": "screen_lock_portrait",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">screen_lock_portrait</i>"
+   },
+   "screen_lock_rotation": {
+     "name": "screen_lock_rotation",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">screen_lock_rotation</i>"
+   },
+   "screen_rotation": {
+     "name": "screen_rotation",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">screen_rotation</i>"
+   },
+   "sd_storage": {
+     "name": "sd_storage",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sd_storage</i>"
+   },
+   "settings_system_daydream": {
+     "name": "settings_system_daydream",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">settings_system_daydream</i>"
+   },
+   "signal_cellular_0_bar": {
+     "name": "signal_cellular_0_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_0_bar</i>"
+   },
+   "signal_cellular_1_bar": {
+     "name": "signal_cellular_1_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_1_bar</i>"
+   },
+   "signal_cellular_2_bar": {
+     "name": "signal_cellular_2_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_2_bar</i>"
+   },
+   "signal_cellular_3_bar": {
+     "name": "signal_cellular_3_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_3_bar</i>"
+   },
+   "signal_cellular_4_bar": {
+     "name": "signal_cellular_4_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_4_bar</i>"
+   },
+   "signal_cellular_connected_no_internet_0_bar": {
+     "name": "signal_cellular_connected_no_internet_0_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_0_bar</i>"
+   },
+   "signal_cellular_connected_no_internet_1_bar": {
+     "name": "signal_cellular_connected_no_internet_1_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_1_bar</i>"
+   },
+   "signal_cellular_connected_no_internet_2_bar": {
+     "name": "signal_cellular_connected_no_internet_2_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_2_bar</i>"
+   },
+   "signal_cellular_connected_no_internet_3_bar": {
+     "name": "signal_cellular_connected_no_internet_3_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_3_bar</i>"
+   },
+   "signal_cellular_connected_no_internet_4_bar": {
+     "name": "signal_cellular_connected_no_internet_4_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_4_bar</i>"
+   },
+   "signal_cellular_no_sim": {
+     "name": "signal_cellular_no_sim",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_no_sim</i>"
+   },
+   "signal_cellular_null": {
+     "name": "signal_cellular_null",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_null</i>"
+   },
+   "signal_cellular_off": {
+     "name": "signal_cellular_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_cellular_off</i>"
+   },
+   "signal_wifi_0_bar": {
+     "name": "signal_wifi_0_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_wifi_0_bar</i>"
+   },
+   "signal_wifi_1_bar": {
+     "name": "signal_wifi_1_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_wifi_1_bar</i>"
+   },
+   "signal_wifi_2_bar": {
+     "name": "signal_wifi_2_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_wifi_2_bar</i>"
+   },
+   "signal_wifi_3_bar": {
+     "name": "signal_wifi_3_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_wifi_3_bar</i>"
+   },
+   "signal_wifi_4_bar": {
+     "name": "signal_wifi_4_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_wifi_4_bar</i>"
+   },
+   "signal_wifi_off": {
+     "name": "signal_wifi_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">signal_wifi_off</i>"
+   },
+   "storage": {
+     "name": "storage",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">storage</i>"
+   },
+   "usb": {
+     "name": "usb",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">usb</i>"
+   },
+   "wifi_lock": {
+     "name": "wifi_lock",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wifi_lock</i>"
+   },
+   "wifi_tethering": {
+     "name": "wifi_tethering",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wifi_tethering</i>"
+   },
+   "attach_file": {
+     "name": "attach_file",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">attach_file</i>"
+   },
+   "attach_money": {
+     "name": "attach_money",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">attach_money</i>"
+   },
+   "border_all": {
+     "name": "border_all",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_all</i>"
+   },
+   "border_bottom": {
+     "name": "border_bottom",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_bottom</i>"
+   },
+   "border_clear": {
+     "name": "border_clear",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_clear</i>"
+   },
+   "border_color": {
+     "name": "border_color",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_color</i>"
+   },
+   "border_horizontal": {
+     "name": "border_horizontal",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_horizontal</i>"
+   },
+   "border_inner": {
+     "name": "border_inner",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_inner</i>"
+   },
+   "border_left": {
+     "name": "border_left",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_left</i>"
+   },
+   "border_outer": {
+     "name": "border_outer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_outer</i>"
+   },
+   "border_right": {
+     "name": "border_right",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_right</i>"
+   },
+   "border_style": {
+     "name": "border_style",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_style</i>"
+   },
+   "border_top": {
+     "name": "border_top",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_top</i>"
+   },
+   "border_vertical": {
+     "name": "border_vertical",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">border_vertical</i>"
+   },
+   "format_align_center": {
+     "name": "format_align_center",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_align_center</i>"
+   },
+   "format_align_justify": {
+     "name": "format_align_justify",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_align_justify</i>"
+   },
+   "format_align_left": {
+     "name": "format_align_left",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_align_left</i>"
+   },
+   "format_align_right": {
+     "name": "format_align_right",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_align_right</i>"
+   },
+   "format_bold": {
+     "name": "format_bold",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_bold</i>"
+   },
+   "format_clear": {
+     "name": "format_clear",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_clear</i>"
+   },
+   "format_color_fill": {
+     "name": "format_color_fill",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_color_fill</i>"
+   },
+   "format_color_reset": {
+     "name": "format_color_reset",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_color_reset</i>"
+   },
+   "format_color_text": {
+     "name": "format_color_text",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_color_text</i>"
+   },
+   "format_indent_decrease": {
+     "name": "format_indent_decrease",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_indent_decrease</i>"
+   },
+   "format_indent_increase": {
+     "name": "format_indent_increase",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_indent_increase</i>"
+   },
+   "format_italic": {
+     "name": "format_italic",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_italic</i>"
+   },
+   "format_line_spacing": {
+     "name": "format_line_spacing",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_line_spacing</i>"
+   },
+   "format_list_bulleted": {
+     "name": "format_list_bulleted",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_list_bulleted</i>"
+   },
+   "format_list_numbered": {
+     "name": "format_list_numbered",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_list_numbered</i>"
+   },
+   "format_paint": {
+     "name": "format_paint",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_paint</i>"
+   },
+   "format_quote": {
+     "name": "format_quote",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_quote</i>"
+   },
+   "format_size": {
+     "name": "format_size",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_size</i>"
+   },
+   "format_strikethrough": {
+     "name": "format_strikethrough",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_strikethrough</i>"
+   },
+   "format_textdirection_l_to_r": {
+     "name": "format_textdirection_l_to_r",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_textdirection_l_to_r</i>"
+   },
+   "format_textdirection_r_to_l": {
+     "name": "format_textdirection_r_to_l",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_textdirection_r_to_l</i>"
+   },
+   "format_underline": {
+     "name": "format_underline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">format_underline</i>"
+   },
+   "functions": {
+     "name": "functions",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">functions</i>"
+   },
+   "insert_chart": {
+     "name": "insert_chart",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_chart</i>"
+   },
+   "insert_comment": {
+     "name": "insert_comment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_comment</i>"
+   },
+   "insert_drive_file": {
+     "name": "insert_drive_file",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_drive_file</i>"
+   },
+   "insert_emoticon": {
+     "name": "insert_emoticon",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_emoticon</i>"
+   },
+   "insert_invitation": {
+     "name": "insert_invitation",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_invitation</i>"
+   },
+   "insert_link": {
+     "name": "insert_link",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_link</i>"
+   },
+   "insert_photo": {
+     "name": "insert_photo",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">insert_photo</i>"
+   },
+   "merge_type": {
+     "name": "merge_type",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">merge_type</i>"
+   },
+   "mode_comment": {
+     "name": "mode_comment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mode_comment</i>"
+   },
+   "mode_edit": {
+     "name": "mode_edit",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mode_edit</i>"
+   },
+   "publish": {
+     "name": "publish",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">publish</i>"
+   },
+   "vertical_align_bottom": {
+     "name": "vertical_align_bottom",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">vertical_align_bottom</i>"
+   },
+   "vertical_align_center": {
+     "name": "vertical_align_center",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">vertical_align_center</i>"
+   },
+   "vertical_align_top": {
+     "name": "vertical_align_top",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">vertical_align_top</i>"
+   },
+   "wrap_text": {
+     "name": "wrap_text",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wrap_text</i>"
+   },
+   "attachment": {
+     "name": "attachment",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">attachment</i>"
+   },
+   "cloud": {
+     "name": "cloud",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud</i>"
+   },
+   "cloud_circle": {
+     "name": "cloud_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud_circle</i>"
+   },
+   "cloud_done": {
+     "name": "cloud_done",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud_done</i>"
+   },
+   "cloud_download": {
+     "name": "cloud_download",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud_download</i>"
+   },
+   "cloud_off": {
+     "name": "cloud_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud_off</i>"
+   },
+   "cloud_queue": {
+     "name": "cloud_queue",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud_queue</i>"
+   },
+   "cloud_upload": {
+     "name": "cloud_upload",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cloud_upload</i>"
+   },
+   "file_download": {
+     "name": "file_download",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">file_download</i>"
+   },
+   "file_upload": {
+     "name": "file_upload",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">file_upload</i>"
+   },
+   "folder": {
+     "name": "folder",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">folder</i>"
+   },
+   "folder_open": {
+     "name": "folder_open",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">folder_open</i>"
+   },
+   "folder_shared": {
+     "name": "folder_shared",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">folder_shared</i>"
+   },
+   "cast": {
+     "name": "cast",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cast</i>"
+   },
+   "cast_connected": {
+     "name": "cast_connected",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cast_connected</i>"
+   },
+   "computer": {
+     "name": "computer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">computer</i>"
+   },
+   "desktop_mac": {
+     "name": "desktop_mac",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">desktop_mac</i>"
+   },
+   "desktop_windows": {
+     "name": "desktop_windows",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">desktop_windows</i>"
+   },
+   "dock": {
+     "name": "dock",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dock</i>"
+   },
+   "gamepad": {
+     "name": "gamepad",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">gamepad</i>"
+   },
+   "headset": {
+     "name": "headset",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">headset</i>"
+   },
+   "headset_mic": {
+     "name": "headset_mic",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">headset_mic</i>"
+   },
+   "keyboard": {
+     "name": "keyboard",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard</i>"
+   },
+   "keyboard_alt": {
+     "name": "keyboard_alt",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_alt</i>"
+   },
+   "keyboard_arrow_down": {
+     "name": "keyboard_arrow_down",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_arrow_down</i>"
+   },
+   "keyboard_arrow_left": {
+     "name": "keyboard_arrow_left",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_arrow_left</i>"
+   },
+   "keyboard_arrow_right": {
+     "name": "keyboard_arrow_right",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_arrow_right</i>"
+   },
+   "keyboard_arrow_up": {
+     "name": "keyboard_arrow_up",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_arrow_up</i>"
+   },
+   "keyboard_backspace": {
+     "name": "keyboard_backspace",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_backspace</i>"
+   },
+   "keyboard_capslock": {
+     "name": "keyboard_capslock",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_capslock</i>"
+   },
+   "keyboard_control": {
+     "name": "keyboard_control",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_control</i>"
+   },
+   "keyboard_hide": {
+     "name": "keyboard_hide",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_hide</i>"
+   },
+   "keyboard_return": {
+     "name": "keyboard_return",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_return</i>"
+   },
+   "keyboard_tab": {
+     "name": "keyboard_tab",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_tab</i>"
+   },
+   "keyboard_voice": {
+     "name": "keyboard_voice",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">keyboard_voice</i>"
+   },
+   "laptop": {
+     "name": "laptop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">laptop</i>"
+   },
+   "laptop_chromebook": {
+     "name": "laptop_chromebook",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">laptop_chromebook</i>"
+   },
+   "laptop_mac": {
+     "name": "laptop_mac",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">laptop_mac</i>"
+   },
+   "laptop_windows": {
+     "name": "laptop_windows",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">laptop_windows</i>"
+   },
+   "memory": {
+     "name": "memory",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">memory</i>"
+   },
+   "mouse": {
+     "name": "mouse",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mouse</i>"
+   },
+   "phone_android": {
+     "name": "phone_android",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_android</i>"
+   },
+   "phone_iphone": {
+     "name": "phone_iphone",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_iphone</i>"
+   },
+   "phonelink": {
+     "name": "phonelink",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phonelink</i>"
+   },
+   "phonelink_off": {
+     "name": "phonelink_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phonelink_off</i>"
+   },
+   "security": {
+     "name": "security",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">security</i>"
+   },
+   "sim_card": {
+     "name": "sim_card",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sim_card</i>"
+   },
+   "smartphone": {
+     "name": "smartphone",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">smartphone</i>"
+   },
+   "speaker": {
+     "name": "speaker",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">speaker</i>"
+   },
+   "tablet": {
+     "name": "tablet",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tablet</i>"
+   },
+   "tablet_android": {
+     "name": "tablet_android",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tablet_android</i>"
+   },
+   "tablet_mac": {
+     "name": "tablet_mac",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tablet_mac</i>"
+   },
+   "tv": {
+     "name": "tv",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tv</i>"
+   },
+   "watch": {
+     "name": "watch",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">watch</i>"
+   },
+   "add_to_photos": {
+     "name": "add_to_photos",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">add_to_photos</i>"
+   },
+   "adjust": {
+     "name": "adjust",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">adjust</i>"
+   },
+   "assistant_photo": {
+     "name": "assistant_photo",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">assistant_photo</i>"
+   },
+   "audiotrack": {
+     "name": "audiotrack",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">audiotrack</i>"
+   },
+   "blur_circular": {
+     "name": "blur_circular",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">blur_circular</i>"
+   },
+   "blur_linear": {
+     "name": "blur_linear",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">blur_linear</i>"
+   },
+   "blur_off": {
+     "name": "blur_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">blur_off</i>"
+   },
+   "blur_on": {
+     "name": "blur_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">blur_on</i>"
+   },
+   "brightness_1": {
+     "name": "brightness_1",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_1</i>"
+   },
+   "brightness_2": {
+     "name": "brightness_2",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_2</i>"
+   },
+   "brightness_3": {
+     "name": "brightness_3",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_3</i>"
+   },
+   "brightness_4": {
+     "name": "brightness_4",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_4</i>"
+   },
+   "brightness_5": {
+     "name": "brightness_5",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_5</i>"
+   },
+   "brightness_6": {
+     "name": "brightness_6",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_6</i>"
+   },
+   "brightness_7": {
+     "name": "brightness_7",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brightness_7</i>"
+   },
+   "brush": {
+     "name": "brush",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">brush</i>"
+   },
+   "camera": {
+     "name": "camera",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">camera</i>"
+   },
+   "camera_alt": {
+     "name": "camera_alt",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">camera_alt</i>"
+   },
+   "camera_front": {
+     "name": "camera_front",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">camera_front</i>"
+   },
+   "camera_rear": {
+     "name": "camera_rear",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">camera_rear</i>"
+   },
+   "camera_roll": {
+     "name": "camera_roll",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">camera_roll</i>"
+   },
+   "center_focus_strong": {
+     "name": "center_focus_strong",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">center_focus_strong</i>"
+   },
+   "center_focus_weak": {
+     "name": "center_focus_weak",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">center_focus_weak</i>"
+   },
+   "collections": {
+     "name": "collections",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">collections</i>"
+   },
+   "color_lens": {
+     "name": "color_lens",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">color_lens</i>"
+   },
+   "colorize": {
+     "name": "colorize",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">colorize</i>"
+   },
+   "compare": {
+     "name": "compare",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">compare</i>"
+   },
+   "control_point": {
+     "name": "control_point",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">control_point</i>"
+   },
+   "control_point_duplicate": {
+     "name": "control_point_duplicate",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">control_point_duplicate</i>"
+   },
+   "crop_16_9": {
+     "name": "crop_16_9",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_16_9</i>"
+   },
+   "crop": {
+     "name": "crop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop</i>"
+   },
+   "crop_3_2": {
+     "name": "crop_3_2",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_3_2</i>"
+   },
+   "crop_5_4": {
+     "name": "crop_5_4",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_5_4</i>"
+   },
+   "crop_7_5": {
+     "name": "crop_7_5",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_7_5</i>"
+   },
+   "crop_din": {
+     "name": "crop_din",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_din</i>"
+   },
+   "crop_free": {
+     "name": "crop_free",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_free</i>"
+   },
+   "crop_landscape": {
+     "name": "crop_landscape",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_landscape</i>"
+   },
+   "crop_original": {
+     "name": "crop_original",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_original</i>"
+   },
+   "crop_portrait": {
+     "name": "crop_portrait",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_portrait</i>"
+   },
+   "crop_square": {
+     "name": "crop_square",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">crop_square</i>"
+   },
+   "dehaze": {
+     "name": "dehaze",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dehaze</i>"
+   },
+   "details": {
+     "name": "details",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">details</i>"
+   },
+   "edit": {
+     "name": "edit",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">edit</i>"
+   },
+   "exposure": {
+     "name": "exposure",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exposure</i>"
+   },
+   "exposure_minus_1": {
+     "name": "exposure_minus_1",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exposure_minus_1</i>"
+   },
+   "exposure_minus_2": {
+     "name": "exposure_minus_2",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exposure_minus_2</i>"
+   },
+   "exposure_plus_1": {
+     "name": "exposure_plus_1",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exposure_plus_1</i>"
+   },
+   "exposure_plus_2": {
+     "name": "exposure_plus_2",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exposure_plus_2</i>"
+   },
+   "exposure_zero": {
+     "name": "exposure_zero",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">exposure_zero</i>"
+   },
+   "filter_1": {
+     "name": "filter_1",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_1</i>"
+   },
+   "filter": {
+     "name": "filter",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter</i>"
+   },
+   "filter_2": {
+     "name": "filter_2",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_2</i>"
+   },
+   "filter_3": {
+     "name": "filter_3",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_3</i>"
+   },
+   "filter_4": {
+     "name": "filter_4",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_4</i>"
+   },
+   "filter_5": {
+     "name": "filter_5",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_5</i>"
+   },
+   "filter_6": {
+     "name": "filter_6",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_6</i>"
+   },
+   "filter_7": {
+     "name": "filter_7",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_7</i>"
+   },
+   "filter_8": {
+     "name": "filter_8",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_8</i>"
+   },
+   "filter_9": {
+     "name": "filter_9",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_9</i>"
+   },
+   "filter_9_plus": {
+     "name": "filter_9_plus",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_9_plus</i>"
+   },
+   "filter_b_and_w": {
+     "name": "filter_b_and_w",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_b_and_w</i>"
+   },
+   "filter_center_focus": {
+     "name": "filter_center_focus",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_center_focus</i>"
+   },
+   "filter_drama": {
+     "name": "filter_drama",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_drama</i>"
+   },
+   "filter_frames": {
+     "name": "filter_frames",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_frames</i>"
+   },
+   "filter_hdr": {
+     "name": "filter_hdr",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_hdr</i>"
+   },
+   "filter_none": {
+     "name": "filter_none",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_none</i>"
+   },
+   "filter_tilt_shift": {
+     "name": "filter_tilt_shift",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_tilt_shift</i>"
+   },
+   "filter_vintage": {
+     "name": "filter_vintage",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">filter_vintage</i>"
+   },
+   "flare": {
+     "name": "flare",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flare</i>"
+   },
+   "flash_auto": {
+     "name": "flash_auto",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flash_auto</i>"
+   },
+   "flash_off": {
+     "name": "flash_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flash_off</i>"
+   },
+   "flash_on": {
+     "name": "flash_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flash_on</i>"
+   },
+   "flip": {
+     "name": "flip",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flip</i>"
+   },
+   "gradient": {
+     "name": "gradient",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">gradient</i>"
+   },
+   "grain": {
+     "name": "grain",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">grain</i>"
+   },
+   "grid_off": {
+     "name": "grid_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">grid_off</i>"
+   },
+   "grid_on": {
+     "name": "grid_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">grid_on</i>"
+   },
+   "hdr_off": {
+     "name": "hdr_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">hdr_off</i>"
+   },
+   "hdr_on": {
+     "name": "hdr_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">hdr_on</i>"
+   },
+   "hdr_strong": {
+     "name": "hdr_strong",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">hdr_strong</i>"
+   },
+   "hdr_weak": {
+     "name": "hdr_weak",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">hdr_weak</i>"
+   },
+   "healing": {
+     "name": "healing",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">healing</i>"
+   },
+   "image": {
+     "name": "image",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">image</i>"
+   },
+   "image_aspect_ratio": {
+     "name": "image_aspect_ratio",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">image_aspect_ratio</i>"
+   },
+   "iso": {
+     "name": "iso",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">iso</i>"
+   },
+   "landscape": {
+     "name": "landscape",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">landscape</i>"
+   },
+   "leak_add": {
+     "name": "leak_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">leak_add</i>"
+   },
+   "leak_remove": {
+     "name": "leak_remove",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">leak_remove</i>"
+   },
+   "lens": {
+     "name": "lens",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">lens</i>"
+   },
+   "looks": {
+     "name": "looks",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks</i>"
+   },
+   "looks_3": {
+     "name": "looks_3",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks_3</i>"
+   },
+   "looks_4": {
+     "name": "looks_4",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks_4</i>"
+   },
+   "looks_5": {
+     "name": "looks_5",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks_5</i>"
+   },
+   "looks_6": {
+     "name": "looks_6",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks_6</i>"
+   },
+   "looks_one": {
+     "name": "looks_one",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks_one</i>"
+   },
+   "looks_two": {
+     "name": "looks_two",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">looks_two</i>"
+   },
+   "loupe": {
+     "name": "loupe",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">loupe</i>"
+   },
+   "movie_creation": {
+     "name": "movie_creation",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">movie_creation</i>"
+   },
+   "nature": {
+     "name": "nature",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">nature</i>"
+   },
+   "nature_people": {
+     "name": "nature_people",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">nature_people</i>"
+   },
+   "navigate_before": {
+     "name": "navigate_before",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">navigate_before</i>"
+   },
+   "navigate_next": {
+     "name": "navigate_next",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">navigate_next</i>"
+   },
+   "palette": {
+     "name": "palette",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">palette</i>"
+   },
+   "panorama": {
+     "name": "panorama",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">panorama</i>"
+   },
+   "panorama_fisheye": {
+     "name": "panorama_fisheye",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">panorama_fisheye</i>"
+   },
+   "panorama_horizontal": {
+     "name": "panorama_horizontal",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">panorama_horizontal</i>"
+   },
+   "panorama_vertical": {
+     "name": "panorama_vertical",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">panorama_vertical</i>"
+   },
+   "panorama_wide_angle": {
+     "name": "panorama_wide_angle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">panorama_wide_angle</i>"
+   },
+   "photo": {
+     "name": "photo",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">photo</i>"
+   },
+   "photo_album": {
+     "name": "photo_album",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">photo_album</i>"
+   },
+   "photo_camera": {
+     "name": "photo_camera",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">photo_camera</i>"
+   },
+   "photo_library": {
+     "name": "photo_library",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">photo_library</i>"
+   },
+   "portrait": {
+     "name": "portrait",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">portrait</i>"
+   },
+   "remove_red_eye": {
+     "name": "remove_red_eye",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">remove_red_eye</i>"
+   },
+   "rotate_left": {
+     "name": "rotate_left",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">rotate_left</i>"
+   },
+   "rotate_right": {
+     "name": "rotate_right",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">rotate_right</i>"
+   },
+   "slideshow": {
+     "name": "slideshow",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">slideshow</i>"
+   },
+   "straighten": {
+     "name": "straighten",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">straighten</i>"
+   },
+   "style": {
+     "name": "style",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">style</i>"
+   },
+   "switch_camera": {
+     "name": "switch_camera",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">switch_camera</i>"
+   },
+   "switch_video": {
+     "name": "switch_video",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">switch_video</i>"
+   },
+   "tag_faces": {
+     "name": "tag_faces",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tag_faces</i>"
+   },
+   "texture": {
+     "name": "texture",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">texture</i>"
+   },
+   "timelapse": {
+     "name": "timelapse",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">timelapse</i>"
+   },
+   "timer_10": {
+     "name": "timer_10",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">timer_10</i>"
+   },
+   "timer": {
+     "name": "timer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">timer</i>"
+   },
+   "timer_3": {
+     "name": "timer_3",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">timer_3</i>"
+   },
+   "timer_auto": {
+     "name": "timer_auto",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">timer_auto</i>"
+   },
+   "timer_off": {
+     "name": "timer_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">timer_off</i>"
+   },
+   "tonality": {
+     "name": "tonality",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tonality</i>"
+   },
+   "transform": {
+     "name": "transform",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">transform</i>"
+   },
+   "tune": {
+     "name": "tune",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tune</i>"
+   },
+   "wb_auto": {
+     "name": "wb_auto",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wb_auto</i>"
+   },
+   "wb_cloudy": {
+     "name": "wb_cloudy",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wb_cloudy</i>"
+   },
+   "wb_incandescent": {
+     "name": "wb_incandescent",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wb_incandescent</i>"
+   },
+   "wb_irradescent": {
+     "name": "wb_irradescent",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wb_irradescent</i>"
+   },
+   "wb_sunny": {
+     "name": "wb_sunny",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">wb_sunny</i>"
+   },
+   "beenhere": {
+     "name": "beenhere",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">beenhere</i>"
+   },
+   "directions": {
+     "name": "directions",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions</i>"
+   },
+   "directions_bike": {
+     "name": "directions_bike",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_bike</i>"
+   },
+   "directions_bus": {
+     "name": "directions_bus",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_bus</i>"
+   },
+   "directions_car": {
+     "name": "directions_car",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_car</i>"
+   },
+   "directions_ferry": {
+     "name": "directions_ferry",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_ferry</i>"
+   },
+   "directions_subway": {
+     "name": "directions_subway",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_subway</i>"
+   },
+   "directions_train": {
+     "name": "directions_train",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_train</i>"
+   },
+   "directions_transit": {
+     "name": "directions_transit",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_transit</i>"
+   },
+   "directions_walk": {
+     "name": "directions_walk",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">directions_walk</i>"
+   },
+   "flight": {
+     "name": "flight",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">flight</i>"
+   },
+   "hotel": {
+     "name": "hotel",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">hotel</i>"
+   },
+   "layers": {
+     "name": "layers",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">layers</i>"
+   },
+   "layers_clear": {
+     "name": "layers_clear",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">layers_clear</i>"
+   },
+   "local_airport": {
+     "name": "local_airport",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_airport</i>"
+   },
+   "local_atm": {
+     "name": "local_atm",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_atm</i>"
+   },
+   "local_attraction": {
+     "name": "local_attraction",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_attraction</i>"
+   },
+   "local_bar": {
+     "name": "local_bar",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_bar</i>"
+   },
+   "local_cafe": {
+     "name": "local_cafe",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_cafe</i>"
+   },
+   "local_car_wash": {
+     "name": "local_car_wash",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_car_wash</i>"
+   },
+   "local_convenience_store": {
+     "name": "local_convenience_store",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_convenience_store</i>"
+   },
+   "local_drink": {
+     "name": "local_drink",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_drink</i>"
+   },
+   "local_florist": {
+     "name": "local_florist",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_florist</i>"
+   },
+   "local_gas_station": {
+     "name": "local_gas_station",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_gas_station</i>"
+   },
+   "local_grocery_store": {
+     "name": "local_grocery_store",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_grocery_store</i>"
+   },
+   "local_hospital": {
+     "name": "local_hospital",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_hospital</i>"
+   },
+   "local_hotel": {
+     "name": "local_hotel",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_hotel</i>"
+   },
+   "local_laundry_service": {
+     "name": "local_laundry_service",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_laundry_service</i>"
+   },
+   "local_library": {
+     "name": "local_library",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_library</i>"
+   },
+   "local_mall": {
+     "name": "local_mall",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_mall</i>"
+   },
+   "local_movies": {
+     "name": "local_movies",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_movies</i>"
+   },
+   "local_offer": {
+     "name": "local_offer",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_offer</i>"
+   },
+   "local_parking": {
+     "name": "local_parking",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_parking</i>"
+   },
+   "local_pharmacy": {
+     "name": "local_pharmacy",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_pharmacy</i>"
+   },
+   "local_phone": {
+     "name": "local_phone",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_phone</i>"
+   },
+   "local_pizza": {
+     "name": "local_pizza",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_pizza</i>"
+   },
+   "local_play": {
+     "name": "local_play",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_play</i>"
+   },
+   "local_post_office": {
+     "name": "local_post_office",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_post_office</i>"
+   },
+   "local_print_shop": {
+     "name": "local_print_shop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_print_shop</i>"
+   },
+   "local_restaurant": {
+     "name": "local_restaurant",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_restaurant</i>"
+   },
+   "local_see": {
+     "name": "local_see",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_see</i>"
+   },
+   "local_shipping": {
+     "name": "local_shipping",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_shipping</i>"
+   },
+   "local_taxi": {
+     "name": "local_taxi",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">local_taxi</i>"
+   },
+   "location_history": {
+     "name": "location_history",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">location_history</i>"
+   },
+   "map": {
+     "name": "map",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">map</i>"
+   },
+   "my_location": {
+     "name": "my_location",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">my_location</i>"
+   },
+   "navigation": {
+     "name": "navigation",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">navigation</i>"
+   },
+   "pin_drop": {
+     "name": "pin_drop",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">pin_drop</i>"
+   },
+   "place": {
+     "name": "place",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">place</i>"
+   },
+   "rate_review": {
+     "name": "rate_review",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">rate_review</i>"
+   },
+   "restaurant_menu": {
+     "name": "restaurant_menu",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">restaurant_menu</i>"
+   },
+   "satellite": {
+     "name": "satellite",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">satellite</i>"
+   },
+   "store_mall_directory": {
+     "name": "store_mall_directory",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">store_mall_directory</i>"
+   },
+   "terrain": {
+     "name": "terrain",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">terrain</i>"
+   },
+   "traffic": {
+     "name": "traffic",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">traffic</i>"
+   },
+   "apps": {
+     "name": "apps",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">apps</i>"
+   },
+   "arrow_back": {
+     "name": "arrow_back",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">arrow_back</i>"
+   },
+   "arrow_drop_down": {
+     "name": "arrow_drop_down",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">arrow_drop_down</i>"
+   },
+   "arrow_drop_down_circle": {
+     "name": "arrow_drop_down_circle",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">arrow_drop_down_circle</i>"
+   },
+   "arrow_drop_up": {
+     "name": "arrow_drop_up",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">arrow_drop_up</i>"
+   },
+   "arrow_forward": {
+     "name": "arrow_forward",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">arrow_forward</i>"
+   },
+   "cancel": {
+     "name": "cancel",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cancel</i>"
+   },
+   "check": {
+     "name": "check",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">check</i>"
+   },
+   "chevron_left": {
+     "name": "chevron_left",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">chevron_left</i>"
+   },
+   "chevron_right": {
+     "name": "chevron_right",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">chevron_right</i>"
+   },
+   "close": {
+     "name": "close",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">close</i>"
+   },
+   "expand_less": {
+     "name": "expand_less",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">expand_less</i>"
+   },
+   "expand_more": {
+     "name": "expand_more",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">expand_more</i>"
+   },
+   "fullscreen": {
+     "name": "fullscreen",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">fullscreen</i>"
+   },
+   "fullscreen_exit": {
+     "name": "fullscreen_exit",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">fullscreen_exit</i>"
+   },
+   "menu": {
+     "name": "menu",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">menu</i>"
+   },
+   "more_horiz": {
+     "name": "more_horiz",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">more_horiz</i>"
+   },
+   "more_vert": {
+     "name": "more_vert",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">more_vert</i>"
+   },
+   "refresh": {
+     "name": "refresh",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">refresh</i>"
+   },
+   "unfold_less": {
+     "name": "unfold_less",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">unfold_less</i>"
+   },
+   "unfold_more": {
+     "name": "unfold_more",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">unfold_more</i>"
+   },
+   "adb": {
+     "name": "adb",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">adb</i>"
+   },
+   "bluetooth_audio": {
+     "name": "bluetooth_audio",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">bluetooth_audio</i>"
+   },
+   "disc_full": {
+     "name": "disc_full",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">disc_full</i>"
+   },
+   "dnd_forwardslash": {
+     "name": "dnd_forwardslash",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">dnd_forwardslash</i>"
+   },
+   "do_not_disturb": {
+     "name": "do_not_disturb",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">do_not_disturb</i>"
+   },
+   "drive_eta": {
+     "name": "drive_eta",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">drive_eta</i>"
+   },
+   "event_available": {
+     "name": "event_available",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">event_available</i>"
+   },
+   "event_busy": {
+     "name": "event_busy",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">event_busy</i>"
+   },
+   "event_note": {
+     "name": "event_note",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">event_note</i>"
+   },
+   "folder_special": {
+     "name": "folder_special",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">folder_special</i>"
+   },
+   "mms": {
+     "name": "mms",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mms</i>"
+   },
+   "more": {
+     "name": "more",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">more</i>"
+   },
+   "network_locked": {
+     "name": "network_locked",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">network_locked</i>"
+   },
+   "phone_bluetooth_speaker": {
+     "name": "phone_bluetooth_speaker",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_bluetooth_speaker</i>"
+   },
+   "phone_forwarded": {
+     "name": "phone_forwarded",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_forwarded</i>"
+   },
+   "phone_in_talk": {
+     "name": "phone_in_talk",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_in_talk</i>"
+   },
+   "phone_locked": {
+     "name": "phone_locked",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_locked</i>"
+   },
+   "phone_missed": {
+     "name": "phone_missed",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_missed</i>"
+   },
+   "phone_paused": {
+     "name": "phone_paused",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">phone_paused</i>"
+   },
+   "play_download": {
+     "name": "play_download",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">play_download</i>"
+   },
+   "play_install": {
+     "name": "play_install",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">play_install</i>"
+   },
+   "sd_card": {
+     "name": "sd_card",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sd_card</i>"
+   },
+   "sim_card_alert": {
+     "name": "sim_card_alert",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sim_card_alert</i>"
+   },
+   "sms": {
+     "name": "sms",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sms</i>"
+   },
+   "sms_failed": {
+     "name": "sms_failed",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sms_failed</i>"
+   },
+   "sync": {
+     "name": "sync",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sync</i>"
+   },
+   "sync_disabled": {
+     "name": "sync_disabled",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sync_disabled</i>"
+   },
+   "sync_problem": {
+     "name": "sync_problem",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">sync_problem</i>"
+   },
+   "system_update": {
+     "name": "system_update",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">system_update</i>"
+   },
+   "tap_and_play": {
+     "name": "tap_and_play",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">tap_and_play</i>"
+   },
+   "time_to_leave": {
+     "name": "time_to_leave",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">time_to_leave</i>"
+   },
+   "vibration": {
+     "name": "vibration",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">vibration</i>"
+   },
+   "voice_chat": {
+     "name": "voice_chat",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">voice_chat</i>"
+   },
+   "vpn_lock": {
+     "name": "vpn_lock",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">vpn_lock</i>"
+   },
+   "cake": {
+     "name": "cake",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">cake</i>"
+   },
+   "domain": {
+     "name": "domain",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">domain</i>"
+   },
+   "group": {
+     "name": "group",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">group</i>"
+   },
+   "group_add": {
+     "name": "group_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">group_add</i>"
+   },
+   "location_city": {
+     "name": "location_city",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">location_city</i>"
+   },
+   "mood": {
+     "name": "mood",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">mood</i>"
+   },
+   "notifications": {
+     "name": "notifications",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">notifications</i>"
+   },
+   "notifications_none": {
+     "name": "notifications_none",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">notifications_none</i>"
+   },
+   "notifications_off": {
+     "name": "notifications_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">notifications_off</i>"
+   },
+   "notifications_on": {
+     "name": "notifications_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">notifications_on</i>"
+   },
+   "notifications_paused": {
+     "name": "notifications_paused",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">notifications_paused</i>"
+   },
+   "pages": {
+     "name": "pages",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">pages</i>"
+   },
+   "party_mode": {
+     "name": "party_mode",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">party_mode</i>"
+   },
+   "people": {
+     "name": "people",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">people</i>"
+   },
+   "people_outline": {
+     "name": "people_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">people_outline</i>"
+   },
+   "person": {
+     "name": "person",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">person</i>"
+   },
+   "person_add": {
+     "name": "person_add",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">person_add</i>"
+   },
+   "person_outline": {
+     "name": "person_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">person_outline</i>"
+   },
+   "plus_one": {
+     "name": "plus_one",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">plus_one</i>"
+   },
+   "poll": {
+     "name": "poll",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">poll</i>"
+   },
+   "public": {
+     "name": "public",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">public</i>"
+   },
+   "school": {
+     "name": "school",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">school</i>"
+   },
+   "share": {
+     "name": "share",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">share</i>"
+   },
+   "whatshot": {
+     "name": "whatshot",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">whatshot</i>"
+   },
+   "check_box": {
+     "name": "check_box",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">check_box</i>"
+   },
+   "check_box_outline_blank": {
+     "name": "check_box_outline_blank",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">check_box_outline_blank</i>"
+   },
+   "radio_button_off": {
+     "name": "radio_button_off",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">radio_button_off</i>"
+   },
+   "radio_button_on": {
+     "name": "radio_button_on",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">radio_button_on</i>"
+   },
+   "star": {
+     "name": "star",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">star</i>"
+   },
+   "star_half": {
+     "name": "star_half",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">star_half</i>"
+   },
+   "star_outline": {
+     "name": "star_outline",
+     "search": {
+       "terms": []
+     },
+     "markup": "<i class=\"material-icons\">star_outline</i>"
+   }
+ }

@@ -11,11 +11,11 @@ var icons = {
   'font-awesome':[],
 };
 
-$.getJSON("//vi.local/cdn/font-awesome/5.13.0/metadata/icons.json", function(json) 
+$.getJSON("./data/fa-icons.json", function(json) 
 {
     icons['font-awesome'] = json; 
     
-    $.getJSON("//vi.local/cdn/material-design-icons/3.0.1/metadata.json", function(json) 
+    $.getJSON("./data/md-icons.json", function(json) 
     {
       icons['material'] = json; 
 
