@@ -41,8 +41,6 @@ iconBrowser.search = function(term) {
 
   this.results = [] // set the results array to an empty state
 
-  $('body').addClass('loading');
-
   $.each( icons['font-awesome'], function( key, icon ) {
      // if the array items name object includes the search term, add its ID to a temporary results array
      if ((icon.name.includes(term) == true) || (icon.keywords.includes(term)) || (term == '')) 
