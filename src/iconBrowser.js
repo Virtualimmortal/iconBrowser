@@ -11,11 +11,11 @@ var icons = {
   'font-awesome':[],
 };
 
-$.getJSON("./data/fa-icons.json", function(json) 
+$.getJSON("iconBrowser/data/fa-icons-free.json", function(json) 
 {
     icons['font-awesome'] = json; 
     
-    $.getJSON("./data/md-icons.json", function(json) 
+    $.getJSON("iconBrowser/data/md-icons.json", function(json) 
     {
       icons['material'] = json; 
 
@@ -43,26 +43,26 @@ iconBrowser.search = function(term) {
 
   $('body').addClass('loading');
 
-  $.each( icons['font-awesome'], function( key, value ) {
+  $.each( icons['font-awesome'], function( key, icon ) {
      // if the array items name object includes the search term, add its ID to a temporary results array
-     if ((value.search.terms.includes(term) == true) || (key.includes(term)) || (term == '')) 
+     if ((icon.name.includes(term) == true) || (icon.keywords.includes(term)) || (term == '')) 
      {
-        sub = (value.styles.includes('brands')) ? 'fab' : 'fa';
-        classname = sub+' fa-'+key;
-        parent.results.push({
-           'name': key,
+      sub = (icon.styles.includes('brands')) ? 'fab' : 'fa';
+      classname = sub+' fa-'+icon.name;
+      iconBrowser.results.push({
+           'name': icon.name,
            'markup': '<i class="'+classname+'"></i>',
         })
      }
      
   });
 
-  $.each( icons['material'], function( key, value ) {
+  $.each( icons['material'], function( key, icon ) {
      // if the array items name object includes the search term, add its ID to a temporary results array
-     if ((value.search.terms.includes(term) == true) || (key.includes(term)) || (term == '')) {
-        parent.results.push({
-           'name': value,
-           'markup': '<i class=\"material-icons\">'+value+'</i>',
+     if ((icon.search.terms.includes(term) == true) || (key.includes(term)) || (term == '')) {
+        iconBrowser.results.push({
+           'name': key,
+           'markup': '<i class=\"material-icons\">'+key+'</i>',
         })
      }
      
