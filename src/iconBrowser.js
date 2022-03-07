@@ -97,8 +97,8 @@ iconBrowser.showsearchresults = function() {
      copyText(icon);
      notify('<p class="center-align">Copied <span style="margin-left: 5px; font-size: 1.5em;">'+icon+'</span> <span class="markup">'+markup+'</span></p>');
 
-     window.scrollTo(0,0);
-     $('#iconBrowser').focus();
+     //window.scrollTo(0,0);
+     //$('#iconBrowser').focus();
 
      return false;
   });
