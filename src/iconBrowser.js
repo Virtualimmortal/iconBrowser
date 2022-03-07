@@ -11,11 +11,11 @@ var icons = {
   'font-awesome':[],
 };
 
-$.getJSON("iconBrowser/data/fa-icons-free.json", function(json) 
+$.getJSON("data/fa-icons-free.json", function(json) 
 {
     icons['font-awesome'] = json; 
     
-    $.getJSON("iconBrowser/data/md-icons.json", function(json) 
+    $.getJSON("data/md-icons.json", function(json) 
     {
       icons['material'] = json; 
 
