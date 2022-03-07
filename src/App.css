@@ -84,13 +84,15 @@ body.loading #loadingIndicator {
 #iconBrowser::placeholder {
   color: #3f4752;
 }
-.SearchForm > .container {
+.SearchForm .container {
   max-width: 65%;
+  width: 65%;
 }
 
 
 #results ul {
   background-color: #eaeef3;
+  overflow: hidden;
 }
 #results ul li {
   line-height:3em;
