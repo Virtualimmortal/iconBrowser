@@ -108,7 +108,7 @@ body.loading #loadingIndicator {
 
 #results ul li a:hover {
   background-color: #0c7bc5;
-  color: #c1c9d8;
+  color: #fff;
 }
 
 #results ul li .icon-result .markup {
