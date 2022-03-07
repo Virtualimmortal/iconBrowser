@@ -11,7 +11,7 @@ var icons = {
   'font-awesome':[],
 };
 
-$.getJSON("data/fa-icons-free.json", function(json) 
+$.getJSON("data/fa-icons-full.json", function(json) 
 {
     icons['font-awesome'] = json; 
     
