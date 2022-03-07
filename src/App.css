@@ -13,7 +13,7 @@
   }
 }
 
-.App-header {
+.App-loader {
   background-color: #282c34;
   min-height: 100vh;
   display: flex;
@@ -36,3 +36,86 @@
     transform: rotate(360deg);
   }
 }
+
+
+#loadingIndicator {
+  display: none;  
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  position: fixed;
+  z-index: 10001;
+}
+.loading-bg #loadingIndicator {
+  background-color: rgba(255,255,255, .75);
+}
+body #loadingIndicator .loader {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  z-index: 1000;
+}
+body #loadingIndicator .preloader-wrapper {
+  position: relative;
+  left: -35%;
+}
+body.loading-bg #loadingIndicator,
+body.loading #loadingIndicator {
+  display: block;
+}
+
+.overlay .loader {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 100px;
+  display: none;
+}
+.overlay .preloader-wrapper {
+  position: relative;
+  left: -35%;
+}
+.overlay.loading .loader {
+  display: block;
+}
+
+#iconBrowser::placeholder {
+  color: #3f4752;
+}
+.SearchForm > .container {
+  max-width: 65%;
+}
+
+
+#results ul {
+  background-color: #d9f0ff;
+}
+#results ul li {
+  line-height:3em;
+  text-align: left;
+}
+#results ul li a {
+  display: block;
+  color: #333;
+  font-size: 1.2em;
+  padding-left: 10px;
+}
+#results ul li a i {
+  font-size: 1.4em;
+}
+
+#results ul li a:hover {
+  background-color: #0c7bc5;
+  color: #c1c9d8;
+}
+
+#results ul li .icon-result .markup {
+  min-width: 3em;
+  display: block;
+  float:left;
+  text-align: center;
+  margin-right: 5px;
+}
+
