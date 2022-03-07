@@ -10,7 +10,6 @@ function App() {
     <div className="App">
       <Loader />
       <SearchForm />
-      <SearchIndicator />
     </div>
   );
 }
