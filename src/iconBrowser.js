@@ -31,7 +31,7 @@ document.addEventListener('DOMContentLoaded', function() {
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);
-    $('#iconBrowser').focus();
+    //$('#iconBrowser').focus();
     $(this).closest('.fixed-action-btn').floatingActionButton().close();
     return false;
   })
