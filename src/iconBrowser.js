@@ -27,6 +27,12 @@ var icons = {
 document.addEventListener('DOMContentLoaded', function() {
   var elems = document.querySelectorAll('.fixed-action-btn');
   var fixedActionButtons = M.FloatingActionButton.init(elems, {});
+  $('#floatingActionMenu .toTopBtn').on('click', function(e) {
+    e.preventDefault();
+    window.scrollTo(0,0);
+    $('#iconBrowser').focus();
+    return false;
+  })
 });
 
 /**
@@ -52,10 +58,6 @@ $.getJSON(faJsonFile, function(json)
       iconBrowser.search('');
 
       $('#loadingOverlay').fadeOut(600, function() { $(this).css('display', 'none')});
-            
-      $(document).on('click', function() {
-        $('#iconBrowser').focus();
-      })
       
       $('#iconBrowser').focus();
 

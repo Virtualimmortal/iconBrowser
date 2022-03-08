@@ -9,12 +9,12 @@ const SearchForm = () => {
       <div className="SearchForm">
          <div className="container">
             <div className="row center">
-               <a name="top"></a>
                <h3><i className="fa fa-search"></i> Icon Search</h3>
 
                <div className="form-group">
                      <input 
                      id="iconBrowser" 
+                     name="iconBrowser"
                      className="form-control"
                      type="text" 
                      defaultValue="" 
@@ -48,8 +48,8 @@ const SearchForm = () => {
                <li>
                   <a 
                   title="Scroll to the top of the page" 
-                  href="#top" 
-                  className="btn-floating green"
+                  href="#!" 
+                  className="btn-floating green toTopBtn"
                   >
                      <i className="fa fa-arrow-to-top"></i>
                   </a>
