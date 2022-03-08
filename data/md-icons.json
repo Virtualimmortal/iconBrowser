@@ -4227,13 +4227,6 @@
      },
      "markup": "<i class=\"material-icons\">wb_incandescent</i>"
    },
-   "wb_irradescent": {
-     "name": "wb_irradescent",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">wb_irradescent</i>"
-   },
    "wb_sunny": {
      "name": "wb_sunny",
      "search": {
