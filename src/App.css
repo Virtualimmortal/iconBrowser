@@ -128,3 +128,11 @@ body.loading #loadingIndicator {
   margin-right: 5px;
 }
 
+#floatingActionMenu {
+  position: fixed;
+  right: 17px;
+  bottom: 23px;
+  padding-top: 15px;
+  margin-bottom: 0;
+  z-index: 2000;
+}
