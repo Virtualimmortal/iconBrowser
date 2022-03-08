@@ -54,7 +54,16 @@ const SearchForm = () => {
                      <i className="fa fa-arrow-to-top"></i>
                   </a>
                </li>
-            </ul>
+               <li>
+                  <a 
+                  title="Scroll to the bottom of the page" 
+                  href="#!" 
+                  className="btn-floating green toBottomBtn"
+                  >
+                     <i className="fa fa-arrow-to-bottom"></i>
+                  </a>
+               </li>
+           </ul>
          </div>
       
       </div>

@@ -27,12 +27,20 @@ var icons = {
 document.addEventListener('DOMContentLoaded', function() {
   var elems = document.querySelectorAll('.fixed-action-btn');
   var fixedActionButtons = M.FloatingActionButton.init(elems, {});
+
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);
     $('#iconBrowser').focus();
     return false;
   })
+
+  $('#floatingActionMenu .toBottomBtn').on('click', function(e) {
+    e.preventDefault();
+    window.scrollTo(0,document.body.scrollHeight);
+    return false;
+  })
+
 });
 
 /**
