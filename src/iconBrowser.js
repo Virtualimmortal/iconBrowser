@@ -51,7 +51,7 @@ $.getJSON(faJsonFile, function(json)
 
       iconBrowser.search('');
 
-      $('#loadingOverlay').hide();
+      $('#loadingOverlay').fadeOut(600, function() { $(this).css('display', 'none')});
             
       $(document).on('click', function() {
         $('#iconBrowser').focus();
