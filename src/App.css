@@ -121,7 +121,7 @@ body.loading #loadingIndicator {
 }
 
 #results ul li .icon-result .markup {
-  min-width: 3em;
+  width: 3em;
   display: block;
   float:left;
   text-align: center;

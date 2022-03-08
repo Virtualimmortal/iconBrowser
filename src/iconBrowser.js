@@ -86,9 +86,10 @@ iconBrowser.search = function(term) {
      // if the array items name object includes the search term, add its ID to a temporary results array
      if ((icon.name.includes(term) == true) || (icon.keywords.includes(term)) || (term == '')) 
      {
-      sub = (icon.styles.includes('brands')) ? 'fab' : 'fa';
-      classname = sub+' fa-'+icon.name;
-      iconBrowser.results.push({
+        icon.name.replace(' ', '');
+        sub = (icon.styles.includes('brands')) ? 'fab' : 'fa';
+        classname = sub+' fa-'+icon.name;
+        iconBrowser.results.push({
            'name': icon.name,
            'markup': '<i class="'+classname+'"></i>',
         })
@@ -119,12 +120,7 @@ iconBrowser.showSearchResults = function() {
   // this will then get the name and write markup for each result
   for (i = 0; i < this.results.length; i++) 
   {
-     var html = html + `
-      <li class="icon-result-container">
-         <a href="#!" class="icon-result" data-key="${this.results[i].name}">
-            <div class="markup">${this.results[i].markup}</div> ${this.results[i].name}
-         </a>
-      </li>`
+     var html = html + `<li class="icon-result-container"><a href="#!" class="icon-result" data-key="${this.results[i].name}"><div class="markup">${this.results[i].markup}</div><div>${this.results[i].name}</div></a></li>`
   }
   html += '</ul>';
   // put the markup of the results on the page
