@@ -26,7 +26,9 @@ var icons = {
  */
 document.addEventListener('DOMContentLoaded', function() {
   var elems = document.querySelectorAll('.fixed-action-btn');
-  var fixedActionButtons = M.FloatingActionButton.init(elems, {});
+  var fixedActionButtons = M.FloatingActionButton.init(elems, {
+    'hoverEnabled': false,
+  });
 
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
