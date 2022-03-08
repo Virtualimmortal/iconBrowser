@@ -30,6 +30,14 @@ document.addEventListener('DOMContentLoaded', function() {
     'hoverEnabled': false,
   });
 
+  $('#floatingActionMenu .searchBtn').on('click', function(e) {
+    e.preventDefault();
+    window.scrollTo(0,0);
+    $('#iconBrowser').focus();
+    fixedActionButtons[0].close();
+    return false;
+  })
+
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);

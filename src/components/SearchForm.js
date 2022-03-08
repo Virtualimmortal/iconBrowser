@@ -40,9 +40,18 @@ const SearchForm = () => {
                   title="Open iconBrowser code page on github"
                   href="https://github.com/Virtualimmortal/iconBrowser/tree/master" 
                   target="_blank" 
-                  className="btn-floating blue darken-1"
+                  className="btn-floating grey darken-5"
                   >
                      <i className="fa fa-code"></i>
+                  </a>
+               </li>
+               <li>
+                  <a 
+                  title="Search icons" 
+                  href="#!" 
+                  className="btn-floating blue searchBtn"
+                  >
+                     <i className="fa fa-search"></i>
                   </a>
                </li>
                <li>
