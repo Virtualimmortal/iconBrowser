@@ -9,13 +9,43 @@ var iconBrowser = {
 var icons = {
   'material':[],
   'font-awesome':[],
+  'sources': {
+    'dev': {
+      'fa': '//vi.local/cdn/font-awesome/5.13.0/metadata/fa-icons-full.json',
+      'md': '//vi.local/cdn/material-design-icons/3.0.1/metadata.json',
+    },
+    'prod': {
+      'fa': 'data/fa-icons-full.json',
+      'md': 'data/md-icons.json',
+    }
+  }
 };
 
-$.getJSON("data/fa-icons-full.json", function(json) 
+/**
+ * Initialize Floating Action Menu
+ */
+document.addEventListener('DOMContentLoaded', function() {
+  var elems = document.querySelectorAll('.fixed-action-btn');
+  var fixedActionButtons = M.FloatingActionButton.init(elems, {});
+});
+
+/**
+ * Import Json data
+ */
+
+var faJsonFile = icons.sources.prod.fa;
+var mdJsonFile = icons.sources.prod.md;
+if (window.location.href.includes(':3000/'))
+{
+  faJsonFile = icons.sources.dev.fa;
+  mdJsonFile = icons.sources.dev.md;
+}
+
+$.getJSON(faJsonFile, function(json) 
 {
     icons['font-awesome'] = json; 
     
-    $.getJSON("data/md-icons.json", function(json) 
+    $.getJSON(mdJsonFile, function(json) 
     {
       icons['material'] = json; 
 
@@ -26,12 +56,11 @@ $.getJSON("data/fa-icons-full.json", function(json)
       $(document).on('click', function() {
         $('#iconBrowser').focus();
       })
+      
       $('#iconBrowser').focus();
 
     });
 });
-
-iconBrowser.results = [];
 
 iconBrowser.search = function(term) {
   var i;
@@ -67,10 +96,10 @@ iconBrowser.search = function(term) {
   });
 
   // initialize the showing of the results
-  this.showsearchresults();
+  this.showSearchResults();
 }
 
-iconBrowser.showsearchresults = function() {
+iconBrowser.showSearchResults = function() {
   var html = "<ul>";
   var i;
 

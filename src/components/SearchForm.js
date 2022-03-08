@@ -9,7 +9,7 @@ const SearchForm = () => {
       <div className="SearchForm">
          <div className="container">
             <div className="row center">
-
+               <a name="top"></a>
                <h3><i className="fa fa-search"></i> Icon Search</h3>
 
                <div className="form-group">
@@ -29,6 +29,34 @@ const SearchForm = () => {
 
             <div id="results" className="row"></div>
          </div>
+
+         <div id="floatingActionMenu" className="fixed-action-btn">
+            <a className="btn-floating btn-large grey darken-2">
+               <i className="fa fa-bars"></i>
+            </a>
+            <ul>
+               <li>
+                  <a 
+                  title="Open code page on github"
+                  href="https://github.com/Virtualimmortal/iconBrowser/tree/master" 
+                  target="_blank" 
+                  className="btn-floating blue darken-1"
+                  >
+                     <i className="fa fa-code"></i>
+                  </a>
+               </li>
+               <li>
+                  <a 
+                  title="Scroll to the top of the page" 
+                  href="#top" 
+                  className="btn-floating green"
+                  >
+                     <i className="fa fa-arrow-to-top"></i>
+                  </a>
+               </li>
+            </ul>
+         </div>
+      
       </div>
    )
 }
