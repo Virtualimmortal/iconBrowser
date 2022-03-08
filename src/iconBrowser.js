@@ -32,14 +32,14 @@ document.addEventListener('DOMContentLoaded', function() {
     e.preventDefault();
     window.scrollTo(0,0);
     //$('#iconBrowser').focus();
-    $(this).closest('.fixed-action-btn').floatingActionButton('close');
+    fixedActionButtons[0].close();
     return false;
   })
 
   $('#floatingActionMenu .toBottomBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,document.body.scrollHeight);
-    $(this).closest('.fixed-action-btn').floatingActionButton('close');
+    fixedActionButtons[0].close();
     return false;
   })
 
@@ -120,7 +120,7 @@ iconBrowser.showSearchResults = function() {
   // this will then get the name and write markup for each result
   for (i = 0; i < this.results.length; i++) 
   {
-     var html = html + `<li class="icon-result-container"><a href="#!" class="icon-result" data-key="${this.results[i].name}"><div class="markup">${this.results[i].markup}</div><div>${this.results[i].name}</div></a></li>`
+     var html = html + `<li class="icon-result-container"><a href="#!" class="icon-result" data-key="${this.results[i].name}"><div class="markup">${this.results[i].markup}</div><div class="label">${this.results[i].name}</div></a></li>`
   }
   html += '</ul>';
   // put the markup of the results on the page
