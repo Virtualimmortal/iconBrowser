@@ -34,13 +34,6 @@
      },
      "markup": "<i class=\"material-icons\">account_box</i>"
    },
-   "account_child": {
-     "name": "account_child",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">account_child</i>"
-   },
    "account_circle": {
      "name": "account_circle",
      "search": {
@@ -1336,13 +1329,6 @@
      },
      "markup": "<i class=\"material-icons\">play_circle_outline</i>"
    },
-   "play_shopping_bag": {
-     "name": "play_shopping_bag",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">play_shopping_bag</i>"
-   },
    "playlist_add": {
      "name": "playlist_add",
      "search": {
@@ -1601,13 +1587,6 @@
        "terms": []
      },
      "markup": "<i class=\"material-icons\">dialpad</i>"
-   },
-   "dnd_on": {
-     "name": "dnd_on",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">dnd_on</i>"
    },
    "email": {
      "name": "email",
@@ -2057,96 +2036,12 @@
      },
      "markup": "<i class=\"material-icons\">airplanemode_on</i>"
    },
-   "battery_20": {
-     "name": "battery_20",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_20</i>"
-   },
-   "battery_30": {
-     "name": "battery_30",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_30</i>"
-   },
-   "battery_50": {
-     "name": "battery_50",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_50</i>"
-   },
-   "battery_60": {
-     "name": "battery_60",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_60</i>"
-   },
-   "battery_80": {
-     "name": "battery_80",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_80</i>"
-   },
-   "battery_90": {
-     "name": "battery_90",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_90</i>"
-   },
    "battery_alert": {
      "name": "battery_alert",
      "search": {
        "terms": []
      },
      "markup": "<i class=\"material-icons\">battery_alert</i>"
-   },
-   "battery_charging_20": {
-     "name": "battery_charging_20",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_charging_20</i>"
-   },
-   "battery_charging_30": {
-     "name": "battery_charging_30",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_charging_30</i>"
-   },
-   "battery_charging_50": {
-     "name": "battery_charging_50",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_charging_50</i>"
-   },
-   "battery_charging_60": {
-     "name": "battery_charging_60",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_charging_60</i>"
-   },
-   "battery_charging_80": {
-     "name": "battery_charging_80",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_charging_80</i>"
-   },
-   "battery_charging_90": {
-     "name": "battery_charging_90",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">battery_charging_90</i>"
    },
    "battery_charging_full": {
      "name": "battery_charging_full",
@@ -2386,27 +2281,6 @@
      },
      "markup": "<i class=\"material-icons\">signal_cellular_0_bar</i>"
    },
-   "signal_cellular_1_bar": {
-     "name": "signal_cellular_1_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_cellular_1_bar</i>"
-   },
-   "signal_cellular_2_bar": {
-     "name": "signal_cellular_2_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_cellular_2_bar</i>"
-   },
-   "signal_cellular_3_bar": {
-     "name": "signal_cellular_3_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_cellular_3_bar</i>"
-   },
    "signal_cellular_4_bar": {
      "name": "signal_cellular_4_bar",
      "search": {
@@ -2420,27 +2294,6 @@
        "terms": []
      },
      "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_0_bar</i>"
-   },
-   "signal_cellular_connected_no_internet_1_bar": {
-     "name": "signal_cellular_connected_no_internet_1_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_1_bar</i>"
-   },
-   "signal_cellular_connected_no_internet_2_bar": {
-     "name": "signal_cellular_connected_no_internet_2_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_2_bar</i>"
-   },
-   "signal_cellular_connected_no_internet_3_bar": {
-     "name": "signal_cellular_connected_no_internet_3_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_cellular_connected_no_internet_3_bar</i>"
    },
    "signal_cellular_connected_no_internet_4_bar": {
      "name": "signal_cellular_connected_no_internet_4_bar",
@@ -2476,27 +2329,6 @@
        "terms": []
      },
      "markup": "<i class=\"material-icons\">signal_wifi_0_bar</i>"
-   },
-   "signal_wifi_1_bar": {
-     "name": "signal_wifi_1_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_wifi_1_bar</i>"
-   },
-   "signal_wifi_2_bar": {
-     "name": "signal_wifi_2_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_wifi_2_bar</i>"
-   },
-   "signal_wifi_3_bar": {
-     "name": "signal_wifi_3_bar",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">signal_wifi_3_bar</i>"
    },
    "signal_wifi_4_bar": {
      "name": "signal_wifi_4_bar",
@@ -4898,20 +4730,6 @@
        "terms": []
      },
      "markup": "<i class=\"material-icons\">phone_paused</i>"
-   },
-   "play_download": {
-     "name": "play_download",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">play_download</i>"
-   },
-   "play_install": {
-     "name": "play_install",
-     "search": {
-       "terms": []
-     },
-     "markup": "<i class=\"material-icons\">play_install</i>"
    },
    "sd_card": {
      "name": "sd_card",
