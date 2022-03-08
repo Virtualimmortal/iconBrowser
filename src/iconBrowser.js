@@ -32,14 +32,14 @@ document.addEventListener('DOMContentLoaded', function() {
     e.preventDefault();
     window.scrollTo(0,0);
     //$('#iconBrowser').focus();
-    $(this).closest('.fixed-action-btn').floatingActionButton().close();
+    $(this).closest('.fixed-action-btn').floatingActionButton('close');
     return false;
   })
 
   $('#floatingActionMenu .toBottomBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,document.body.scrollHeight);
-    $(this).closest('.fixed-action-btn').floatingActionButton().close();
+    $(this).closest('.fixed-action-btn').floatingActionButton('close');
     return false;
   })
 
