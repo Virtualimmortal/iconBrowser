@@ -37,7 +37,7 @@ const SearchForm = () => {
             <ul>
                <li>
                   <a 
-                  title="Open code page on github"
+                  title="Open iconBrowser code page on github"
                   href="https://github.com/Virtualimmortal/iconBrowser/tree/master" 
                   target="_blank" 
                   className="btn-floating blue darken-1"
