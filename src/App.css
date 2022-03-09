@@ -113,6 +113,7 @@ body.loading #loadingIndicator {
 }
 #results ul li a i {
   font-size: 1.4em;
+  vertical-align: middle;
 }
 
 #results ul li a:hover {
@@ -163,11 +164,14 @@ body.loading #loadingIndicator {
     font-size: 1.4em;
   }
   #results ul li {
-    line-height: 4.5em;
+    line-height: 5em;
   } 
   #results ul li a {
-    font-size: 1.5em;
-    padding-left: 2em;
+    font-size: 1.4em;
+    padding-left: 1.2em;
+  }
+  #results ul li a i {
+    font-size: 1.8em;
   }
   #results ul li .icon-result .markup {
     margin-right: 1em;
