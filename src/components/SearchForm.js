@@ -31,7 +31,7 @@ const SearchForm = () => {
          </div>
 
          <div id="floatingActionMenu" className="fixed-action-btn">
-            <a className="btn-floating btn-large grey darken-2">
+            <a className="btn-floating btn-large grey darken-3">
                <i className="fa fa-bars"></i>
             </a>
             <ul>

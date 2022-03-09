@@ -3,7 +3,6 @@ import M from 'materialize-css'
 
 var jQuery = $;
 var iconBrowser = {
-  'timer': null,
   'results': [],
 };  
 var icons = {
@@ -41,7 +40,6 @@ document.addEventListener('DOMContentLoaded', function() {
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);
-    //$('#iconBrowser').focus();
     fixedActionButtons[0].close();
     return false;
   })
@@ -58,7 +56,6 @@ document.addEventListener('DOMContentLoaded', function() {
 /**
  * Import Json data
  */
-
 var faJsonFile = icons.sources.prod.fa;
 var mdJsonFile = icons.sources.prod.md;
 if (window.location.href.includes(':3000/'))
@@ -115,8 +112,9 @@ iconBrowser.search = function(term) {
            'markup': '<i class=\"material-icons\">'+key+'</i>',
         })
      }
-     
   });
+
+  iconBrowser.results.sort((a,b) => (a.name > b.name) ? 1 : ((b.name > a.name) ? -1 : 0))
 
   // initialize the showing of the results
   this.showSearchResults();
