@@ -112,7 +112,7 @@ body.loading #loadingIndicator {
   padding-left: 10px;
 }
 #results ul li a i {
-  font-size: 1.4em;
+  font-size: 1.5em;
   vertical-align: middle;
 }
 
@@ -172,6 +172,9 @@ body.loading #loadingIndicator {
   }
   #results ul li a i {
     font-size: 1.8em;
+  }
+  #results ul li a i.material-icons {
+    height: 1.3em;
   }
   #results ul li .icon-result .markup {
     margin-right: 1em;
