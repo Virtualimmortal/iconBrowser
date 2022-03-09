@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', function()
         case 'f':
           e.preventDefault();
           window.scrollTo(0,0);
-          $('#iconBrowser').focus();      
+          $('#iconBrowser').select().focus();
           break;
       }
     }
@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', function()
   $('#floatingActionMenu .searchBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);
-    $('#iconBrowser').focus();
+    $('#iconBrowser').select().focus();
     fixedActionButtons[0].close();
     return false;
   })
