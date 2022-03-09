@@ -30,15 +30,16 @@ document.addEventListener('DOMContentLoaded', function()
    */
   $(window).bind('keydown', function(e) {
     if (e.ctrlKey || e.metaKey) {
-        switch (String.fromCharCode(e.which).toLowerCase()) {
-          case 'f':
-            e.preventDefault();
-            window.scrollTo(0,0);
-            $('#iconBrowser').focus();      
-            break;
-        }
+      switch (String.fromCharCode(e.which).toLowerCase()) {
+        case 'f':
+          e.preventDefault();
+          window.scrollTo(0,0);
+          $('#iconBrowser').focus();      
+          break;
+      }
     }
-});
+    return;
+  });
 
   /**
    * Floating Action Menu
@@ -111,6 +112,8 @@ iconBrowser.search = function(term) {
   var sub;
   var parent = this;
 
+  this.results = [];
+
   $.each( icons['font-awesome'], function( key, icon ) {
      // if the array items name object includes the search term, add its ID to a temporary results array
      if ((icon.name.includes(term) == true) || (icon.keywords.includes(term)) || (term == '')) 
@@ -158,6 +161,7 @@ iconBrowser.showSearchResults = function() {
   }
   html += '</ul>';
   // put the markup of the results on the page
+  $('#results').html('');
   $('#results').append(html);
   $('#count').html('('+this.results.length + ' icons found)');
 

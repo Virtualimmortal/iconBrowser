@@ -4,7 +4,7 @@ import iconBrowser from '../iconBrowser'
 
 
 const SearchForm = () => {
-
+   var timer = {};
    return (
       <div className="SearchForm">
          <div className="container">
@@ -83,9 +83,9 @@ SearchForm.updateSearch = function(text)
 {
    clearTimeout(this.timer);
    var term = text.toLowerCase();
+   console.log(term);
    this.timer = setTimeout(function()
    { 
-         $('#results').html('');
          iconBrowser.search(term); 
    }, 500);
 
