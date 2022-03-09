@@ -21,9 +21,28 @@ var icons = {
 };
 
 /**
- * Initialize Floating Action Menu
+ * Initialize page components
  */
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('DOMContentLoaded', function() 
+{
+  /**
+   * Ctrl+f - Search
+   */
+  $(window).bind('keydown', function(e) {
+    if (e.ctrlKey || e.metaKey) {
+        switch (String.fromCharCode(e.which).toLowerCase()) {
+          case 'f':
+            e.preventDefault();
+            window.scrollTo(0,0);
+            $('#iconBrowser').focus();      
+            break;
+        }
+    }
+});
+
+  /**
+   * Floating Action Menu
+   */
   var elems = document.querySelectorAll('.fixed-action-btn');
   var fixedActionButtons = M.FloatingActionButton.init(elems, {
     'hoverEnabled': false,
@@ -34,21 +53,18 @@ document.addEventListener('DOMContentLoaded', function() {
     window.scrollTo(0,0);
     $('#iconBrowser').focus();
     fixedActionButtons[0].close();
-    return false;
   })
 
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);
     fixedActionButtons[0].close();
-    return false;
   })
 
   $('#floatingActionMenu .toBottomBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,document.body.scrollHeight);
     fixedActionButtons[0].close();
-    return false;
   })
 
 });
@@ -58,6 +74,7 @@ document.addEventListener('DOMContentLoaded', function() {
  */
 var faJsonFile = icons.sources.prod.fa;
 var mdJsonFile = icons.sources.prod.md;
+
 if (window.location.href.includes(':3000/'))
 {
   faJsonFile = icons.sources.dev.fa;
@@ -81,13 +98,15 @@ $.getJSON(faJsonFile, function(json)
     });
 });
 
+
+/**
+ * Search and sort results in to alphabetical array
+ */
 iconBrowser.search = function(term) {
   var i;
   var classname;
   var sub;
   var parent = this;
-
-  this.results = [] // set the results array to an empty state
 
   $.each( icons['font-awesome'], function( key, icon ) {
      // if the array items name object includes the search term, add its ID to a temporary results array
@@ -120,6 +139,10 @@ iconBrowser.search = function(term) {
   this.showSearchResults();
 }
 
+
+/**
+ * Display search results
+ */
 iconBrowser.showSearchResults = function() {
   var html = "<ul>";
   var i;
@@ -142,14 +165,10 @@ iconBrowser.showSearchResults = function() {
      copyText(icon);
      notify('<p class="center-align">Copied <span style="margin-left: 5px; font-size: 1.5em;">'+icon+'</span> <span class="markup">'+markup+'</span></p>');
 
-     //window.scrollTo(0,0);
-     //$('#iconBrowser').focus();
-
      return false;
   });
 
   $('body').removeClass('loading');
-
 }
 
 
@@ -162,6 +181,7 @@ function copyText(text)
    document.execCommand('copy',false);
    input.remove();
 }
+
 
 function notify(message)
 {
