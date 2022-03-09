@@ -136,3 +136,48 @@ body.loading #loadingIndicator {
   margin-bottom: 0;
   z-index: 2000;
 }
+
+
+/* ------------------------------------------------------------------- 
+ * responsive:
+ * 
+* ------------------------------------------------------------------- */
+@media only screen and (max-width: 400px) {
+  
+
+       
+}
+
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (max-width: 600px) {
+
+  
+} 
+
+
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 992px) {
+   
+  #iconBrowser {
+    font-size: 1.4em;
+  }
+  #results ul li {
+    line-height: 4.5em;
+  } 
+  #results ul li a {
+    font-size: 1.5em;
+    padding-left: 2em;
+  }
+  #results ul li .icon-result .markup {
+    margin-right: 1em;
+  }
+}
+
+
+/* Extra large devices (large laptops and desktops, 1200px and up) */
+@media only screen and (min-width: 1200px) {
+  
+
+}
+
