@@ -53,18 +53,21 @@ document.addEventListener('DOMContentLoaded', function()
     window.scrollTo(0,0);
     $('#iconBrowser').focus();
     fixedActionButtons[0].close();
+    return false;
   })
 
   $('#floatingActionMenu .toTopBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,0);
     fixedActionButtons[0].close();
+    return false;
   })
 
   $('#floatingActionMenu .toBottomBtn').on('click', function(e) {
     e.preventDefault();
     window.scrollTo(0,document.body.scrollHeight);
     fixedActionButtons[0].close();
+    return false;
   })
 
 });
